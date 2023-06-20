@@ -1,0 +1,39 @@
+* {
+   margin-bottom: 2px;
+}
+
+h1 {
+   height: 45px;
+   color: white;
+   background-color: black;
+   font-family: cursive;
+   font-weight: bolder;
+   padding-left: 10px;
+   vertical-align: middle;
+}
+
+h2 {
+   height: 30px;
+   color: white;
+   background-color: rebeccapurple;
+   text-align: center;
+   font-style: italic;
+   font-family: sans-serif;
+   vertical-align: middle;
+   padding-top: 5px;
+   font-weight: 200;
+}
+
+h3 {
+   color: black;
+   background-color: lightblue;
+   text-align: right;
+   font-family: cursive;
+   text-decoration: underline;
+   font-weight: normal;
+   padding-right: 10px;
+}
+
+span {
+   color: aqua;
+}
